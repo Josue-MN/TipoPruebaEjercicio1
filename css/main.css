@@ -1,0 +1,20 @@
+.almedio {
+    text-align: center;
+}
+.botonheader{
+    background-color:unset;
+}
+.botonmain{
+    background-color:orange;
+    color:white;
+    border-color: orange;
+    border-bottom-color: orange;
+}
+.colordetras{
+    background-color:whitesmoke;
+    display:;
+}
+#img{
+    width: 500px;
+    height: 300px;
+}
